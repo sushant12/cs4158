@@ -1,0 +1,3 @@
+int a,b,c;
+// comment to ignore
+a=b+c;
